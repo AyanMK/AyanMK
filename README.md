@@ -4,7 +4,8 @@
 
 I like to create applications and websites. Although want to be a game developer.
 
-Skills:  C / Python / HTML / CSS / JS
+Programing Skills:  C / Python / HTML / CSS / JS
+Other Skills: Illustration(Adobe Illustrator) / Photoshop(Adobe Photoshop)
 
 - 🌱 I’m currently learning JavaScript 
 - 💬 Ask me about web development 
