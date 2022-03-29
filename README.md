@@ -2,10 +2,9 @@
 #### I am a programmer :)
 ![I am a programmer :)](https://scontent.fdac11-1.fna.fbcdn.net/v/t1.6435-9/175917617_2757120554600488_6388869846554252666_n.jpg?stp=dst-jpg_p526x296&_nc_cat=111&ccb=1-5&_nc_sid=0debeb&_nc_ohc=ET7NxdRzZcwAX8o2ous&_nc_ht=scontent.fdac11-1.fna&oh=00_AT8MQ9uwNLfi60y7XIq_IC4ovqG0g8WmRtgDb2AmvJanXQ&oe=62695300)
 
-I like to create applications and websites. Although want to be a game developer.
+I like to create applications and websites. Although want to be a game developer. 
 
-Programing Skills:  C / C++ / Java / Python / HTML / CSS / JS
-
+Programing Skills:  C / C++ / Java / Python / HTML / CSS / JS 
 Other Skills: Illustration(Adobe Illustrator) / Photoshop(Adobe Photoshop)
 
 - 🌱 I’m currently learning JavaScript 
@@ -13,7 +12,7 @@ Other Skills: Illustration(Adobe Illustrator) / Photoshop(Adobe Photoshop)
 - 📫 How to reach me: ayankakon123@gmail.com 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyanMK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://www.facebook.com/profile.php?id=100009077106349)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@ayanmk)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyanMK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@ayanmk)  
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=AyanMK)](https://github.com/ryo-ma/github-profile-trophy)
 
