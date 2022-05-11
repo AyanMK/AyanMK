@@ -1,6 +1,5 @@
 ### *Hi there 👋, I am Ayan Majumder Kakon*
 #### *I am a programmer (Frontend developer)*
-![I am a programmer :)](https://github.com/account)
 
 *I like to create applications and websites. Although want to be a game developer.* 
 
