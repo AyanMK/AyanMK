@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <samp>
-    「A Soc Analyst at <a href="https://it.pentesterspace.com/">Pentesterspace</a>, where we're provide security & pentesting.」
+        Soc Analyst at <a href="https://it.pentesterspace.com/">Pentesterspace</a>, where we're provide security & pentesting.
     <br>
     <br>
   </samp>
