@@ -6,7 +6,9 @@ I'm Ayan Majumder Kakon, a Soc Analist at <a href="https://it.pentesterspace.com
 - **M.Sc. in Profectional Masters in Information & Cybersecurity**, University of Dhaka
 - **B.Sc. in Computer Science & Engineering**, R.P. Shaha University
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyanMK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@ayanmk)  
+## 🤗 Connect!
+<a href="https://www.linkedin.com/in/ayan-majumder-kakon/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+
 <hr>
 <div align="center">
   
