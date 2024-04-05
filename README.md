@@ -61,9 +61,6 @@
 <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
 </div> -->
 
-
-
-</div>
-
+##
 ![github contribution grid snake animation](https://raw.githubusercontent.com/saedyousef/saedyousef/output/github-contribution-grid-snake.svg)
 <!-- https://dev.to/rado_mayank/watch-a-snake-eating-my-contribution-graph-on-github-96 -->
