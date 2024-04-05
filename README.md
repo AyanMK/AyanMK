@@ -1,7 +1,11 @@
+<a href="https://komarev.com/ghpvc/?username=alsiam">
+  <img align="right" src="https://komarev.com/ghpvc/?username=alsiam&label=Visitors&color=0e75b6&style=flat" alt="Profile visitor" />
+</a>
+
 ## 👋 Hi there! 
 
 I'm Ayan Majumder Kakon, a Soc Analist at <a href="https://it.pentesterspace.com/">Pentesterspace</a>, where we're provide security & pentesting.
-![//](linux.png)
+
 ## 🎓 Education
 - **M.Sc. in Profectional Masters in Information & Cybersecurity**, University of Dhaka
 - **B.Sc. in Computer Science & Engineering**, R.P. Shaha University
