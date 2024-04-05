@@ -17,8 +17,6 @@
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AyanMK)  
 
 <br />
-<br />
-
 <hr>
 
 <div align="center">
