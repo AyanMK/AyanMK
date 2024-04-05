@@ -27,9 +27,6 @@
 - **M.Sc. in Profectional Masters in Information & Cybersecurity**, University of Dhaka
 - **B.Sc. in Computer Science & Engineering**, R.P. Shaha University
 
-## 🤗 Connect!
-<a href="" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 <hr>
 <div align="center">
   
