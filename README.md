@@ -24,7 +24,7 @@
 - **M.Sc. in Profectional Masters in Information & Cybersecurity**, University of Dhaka
 - **B.Sc. in Computer Science & Engineering**, R.P. Shaha University
 
-## Skills Learned
+## Skills
 - Advanced understanding of SIEM concepts and practical application.
 - Proficiency in analyzing and interpreting network logs.
 - Ability to generate and recognize attack signatures and patterns.
