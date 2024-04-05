@@ -12,11 +12,6 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/AyanMK)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg' alt='codepen' height='40'>](https://codepen.io/@ayanmk)  
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=AyanMK&show_icons=true)  
-
-![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AyanMK)  
-
-<br />
 <hr>
 
 <div align="center">
