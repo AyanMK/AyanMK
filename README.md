@@ -16,4 +16,17 @@
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=AyanMK)  
 
+<br />
+<br />
 
+<hr>
+
+<div align="center">
+  
+![](https://visitor-badge.glitch.me/badge?page_id=darsaveli.darsaveli)
+
+</div>
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/saedyousef/saedyousef/output/github-contribution-grid-snake.svg)
+
+<!-- https://dev.to/rado_mayank/watch-a-snake-eating-my-contribution-graph-on-github-96 -->
