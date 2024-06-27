@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <samp>
-        Soc Analyst at <a href="https://it.pentesterspace.com/">Pentesterspace</a>, where we're provide security & pentesting.
+        Assistant System Engineer, Cybersecurity at <a href="https://bytecareltd.com/">Byte Care Limited</a>, where we're provide security & pentesting.
     <br>
   </samp>
 </p>
