@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <samp>
-        Assistant System Engineer, Cybersecurity at <a href="https://bytecareltd.com/">Byte Care Limited</a>, where we're provide security & pentesting.
+        Network Engineer at <a href="https://kloudnix.com/">Kloud Technologies Limited</a>, where we're provide security & pentesting.
     <br>
   </samp>
 </p>
