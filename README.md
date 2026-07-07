@@ -5,7 +5,7 @@
 
 <p align="center"> 
   <samp>
-        Network Engineer at <a href="https://kloudnix.com/">Kloud Technologies Limited</a>, where we're provide security & pentesting.
+        Network Engineer at <a href="https://kloudnix.com/">Kloud Technologies Limited</a>, where we're provide network & system support & services.
     <br>
   </samp>
 </p>
